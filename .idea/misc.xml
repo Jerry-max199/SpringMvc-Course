@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ch01-hello-SpringMvc" />
+    <file type="web" url="file://$PROJECT_DIR$/ch02-requestMapping" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03-receiveParam" />
+    <file type="web" url="file://$PROJECT_DIR$/ch04-return" />
+    <file type="web" url="file://$PROJECT_DIR$/ch05-url-pattern" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01-hello-SpringMvc/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02-requestMapping/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03-receiveParam/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04-return/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05-url-pattern/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
